@@ -1,4 +1,3 @@
-# Web-Scraping-using-BeautifulSoup
 # Web Scraping Tata Cars Data Project
 
 ## Project Description
